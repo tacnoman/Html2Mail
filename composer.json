@@ -1,5 +1,7 @@
 {
     "name": "tokenpost/html2mail",
+    "keywords": ["php", "premailer", "html", "email", "marketing", "tokenpost"],
+    "license": "MIT",
     "description": "A package to convert the css classes in styles.",
     "require": {
         "wa72/htmlpagedom": "~1.0"
