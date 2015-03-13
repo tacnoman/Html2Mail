@@ -10,5 +10,10 @@
             "email": "renatocassino@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-0": {
+            "Html2Mail": "src/"
+        }
+    },
     "minimum-stability": "alpha"
 }
